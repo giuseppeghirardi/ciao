@@ -241,3 +241,153 @@ LogInit: Object subsystem initialized
 [2018.06.13-20.16.27:848][  0]LogInit: Setting process to per monitor DPI aware
 [2018.06.13-20.16.28:152][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
 [2018.06.13-20.16.28:152][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.13-20.16.30:182][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.13-20.16.30:229][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.06.13-20.16.30:229][  0]LogD3D11RHI:       8096/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.13-20.16.30:231][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.13-20.16.30:231][  0]LogD3D11RHI:       0/0/8172 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.13-20.16.30:231][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.13-20.16.30:236][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.13-20.16.30:236][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.13-20.16.30:236][  0]LogWindows: EnumDisplayDevices:
+[2018.06.13-20.16.30:236][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.06.13-20.16.30:236][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-20.16.30:236][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-20.16.30:237][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.06.13-20.16.30:237][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.13-20.16.30:237][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.06.13-20.16.30:237][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.13-20.16.30:237][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.13-20.16.30:237][  0]LogRHI: Texture pool is 5667 MB (70% of 8096 MB)
+[2018.06.13-20.16.30:262][  0]LogD3D11RHI: [Aftermath] Aftermath enabled but failed to initialize
+[2018.06.13-20.16.30:262][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.13-20.16.30:262][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.13-20.16.30:338][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.06.13-20.16.30:423][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/Shaders/WorkingDirectory/7096/).
+[2018.06.13-20.16.30:423][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ilgiu/AppData/Local/Temp/UnrealShaderWorkingDir/0F9F7F184A5BF1297663C0914FC13D4F/'.
+[2018.06.13-20.16.31:101][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.13-20.16.31:112][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.13-20.16.31:123][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.13-20.16.31:134][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.13-20.16.31:158][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.13-20.16.31:169][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.13-20.16.31:180][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.13-20.16.31:191][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.13-20.16.31:196][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.13-20.16.31:207][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.13-20.16.31:216][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.13-20.16.31:226][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.13-20.16.31:237][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.13-20.16.31:247][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.13-20.16.31:257][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.13-20.16.31:278][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.13-20.16.31:278][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.13-20.16.31:297][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.13-20.16.31:298][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.13-20.16.31:378][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.13-20.16.31:398][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.13-20.16.31:409][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.13-20.16.31:419][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.13-20.16.31:430][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.13-20.16.31:444][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.13-20.16.31:444][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.13-20.16.31:982][  0]LogXGEController: Cleaning working directory: C:/Users/ilgiu/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.13-20.16.31:982][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.13-20.16.31:982][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.13-20.16.31:982][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.13-20.16.34:041][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.13-20.16.34:285][  0]LogDerivedDataCache: Loaded boot cache 0.24s 74MB C:/Users/ilgiu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-20.16.34:285][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ilgiu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.13-20.16.34:285][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.13-20.16.34:286][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.13-20.16.34:286][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.13-20.16.34:286][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.13-20.16.34:358][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.13-20.16.34:373][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ilgiu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.13-20.16.34:373][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.13-20.16.34:373][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.13-20.16.34:383][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.13-20.16.34:384][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.13-20.16.34:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-20.16.34:430][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.13-20.16.37:996][  0]LogAssetRegistry: FAssetRegistry took 0.0256 seconds to start up
+[2018.06.13-20.16.38:371][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.13-20.16.40:065][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.13-20.16.40:129][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.13-20.16.40:148][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.13-20.16.40:148][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.13-20.16.40:148][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.13-20.16.40:148][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.13-20.16.40:438][  0]LogNetVersion: MyExercise , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2805184651)
+[2018.06.13-20.16.42:132][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/CachedAssetRegistry.bin
+[2018.06.13-20.16.42:132][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/AssetRegistryCache/2657c409.bin
+[2018.06.13-20.16.42:139][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/AssetRegistryCache/8c0e1344.bin
+[2018.06.13-20.16.42:145][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/AssetRegistryCache/50a675f9.bin
+[2018.06.13-20.16.42:151][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/AssetRegistryCache/2f5244c7.bin
+[2018.06.13-20.16.42:158][  0]LogAssetRegistry: Error: Failed to open file for write C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Intermediate/AssetRegistryCache/1f683343.bin
+[2018.06.13-20.16.42:160][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.030131 seconds
+[2018.06.13-20.16.42:165][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.13-20.16.42:165][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.13-20.16.42:165][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.13-20.16.48:874][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.13-20.16.48:897][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.13-20.16.49:463][  0]SourceControl: Source control is disabled
+[2018.06.13-20.16.49:464][  0]SourceControl: Source control is disabled
+[2018.06.13-20.16.49:474][  0]SourceControl: Source control is disabled
+[2018.06.13-20.16.49:485][  0]SourceControl: Source control is disabled
+[2018.06.13-20.16.49:980][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.13-20.16.50:103][  0]LogOcInput: OculusInput pre-init called
+[2018.06.13-20.16.50:291][  0]LogEngine: Initializing Engine...
+[2018.06.13-20.16.50:292][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.13-20.16.50:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-20.16.50:293][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-20.16.50:894][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.13-20.16.50:913][  0]LogInit: XAudio2 using 'Altoparlanti (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.06.13-20.16.51:027][  0]LogInit: FAudioDevice initialized.
+[2018.06.13-20.16.51:037][  0]LogDerivedDataCache: Error: Could not save memory cache C:/Users/ilgiu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.13-20.16.51:052][  0]LogInit: Texture streaming: Enabled
+[2018.06.13-20.16.51:064][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.13-20.16.51:076][  0]LogInit: Transaction tracking system initialized
+[2018.06.13-20.16.51:170][  0]BlueprintLog: New page: Editor Load
+[2018.06.13-20.16.51:551][  0]LocalizationService: Localization service is disabled
+[2018.06.13-20.16.51:759][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.06.13-20.16.51:759][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.06.13-20.16.51:759][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.06.13-20.16.51:827][  0]LogConsoleResponse: Display: 
+[2018.06.13-20.16.53:625][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.13-20.16.53:625][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.13-20.16.53:625][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.13-20.16.53:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.13-20.16.53:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.13-20.16.54:156][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Content/' took 0.02s
+[2018.06.13-20.16.55:392][  0]SourceControl: Source control is disabled
+[2018.06.13-20.16.55:392][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.13-20.16.55:444][  0]LightingResults: New page: Lighting Build
+[2018.06.13-20.16.55:446][  0]MapCheck: New page: Map Check
+[2018.06.13-20.16.55:446][  0]LightingResults: New page: Lighting Build
+[2018.06.13-20.16.55:986][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.06.13-20.16.56:006][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.13-20.16.56:023][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.13-20.16.56:052][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 29,302ms to complete.
+[2018.06.13-20.16.56:052][  0]LogFileHelpers: Loading map 'Template_Default' took 0.660
+[2018.06.13-20.16.56:242][  0]LogCollectionManager: Loaded 0 collections in 0.000916 seconds
+[2018.06.13-20.16.56:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Saved/Collections/' took 0.01s
+[2018.06.13-20.16.56:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Content/Developers/ilgiu/Collections/' took 0.01s
+[2018.06.13-20.16.56:281][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ilgiu/Documents/Unreal Projects/MyExercise/Content/Collections/' took 0.01s
+[2018.06.13-20.16.56:281][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.13-20.16.56:289][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2452 classes and 558 folders.
+[2018.06.13-20.16.56:293][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.13-20.16.57:483][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.06.13-20.16.57:505][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.13-20.16.57:612][  0]LogSlate: Took 0.015343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.13-20.16.57:638][  0]LogSlate: Took 0.024086 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.13-20.16.57:660][  0]LogSlate: Took 0.016658 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.13-20.16.57:823][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.13-20.16.57:975][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.13-20.16.57:975][  0]LogLoad: (Engine Initialization) Total time: 44.15 seconds
+[2018.06.13-20.16.57:975][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.13-20.16.58:332][  0]LogAssetRegistry: Asset discovery search completed in 20.3581 seconds
+[2018.06.13-20.16.58:334][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.13-20.16.58:334][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.06.13-20.16.58:338][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.13-20.16.58:377][  0]LogSlate: Took 0.000101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
